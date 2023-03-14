@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.net.*;
 
 
-// NOTE : I have used cache <DNSQuestion, DNSMessage> instead of cache <DNSQuestion , DNSRecord> after consulting with the professor.
+// NOTE : I have used cache <DNSQuestion, DNSMessage> instead of cache <DNSQuestion , DNSRecord>.
 // I have also modified few functions accordingly
 
 public class DNSServer
